@@ -1,5 +1,5 @@
 # OfficeBot
-OfficeBot is a simple conversational chat bot made with [Flask](https://flask.palletsprojects.com/en/2.0.x/) and [ChatterBot](https://chatterbot.readthedocs.io/en/stable/) for answering questions regarding office hours. 
+OfficeBot is a simple conversational chat bot built on [Flask](https://flask.palletsprojects.com/en/2.0.x/) and [ChatterBot](https://chatterbot.readthedocs.io/en/stable/) for answering questions regarding office hours. 
 
 Reference - https://studygyaan.com/uncategorised/create-web-based-chatbot-in-python-django-flask
 
